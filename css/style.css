@@ -769,6 +769,21 @@ h6 {
     text-align: right;
 }
 
+/* Site Headings */
+
+.site-heading {
+    padding: 0;
+    text-align: center;
+}
+
+/* Site Tag */
+
+.site-tag {
+    padding-top: 5%;
+    text-align: center;
+    font-weight: 500;
+}
+
 /* Section Headings */
 
 .section-heading {
@@ -802,7 +817,7 @@ h6 {
 }
 
 #banner h1 {
-    padding-top: 5%;
+    /* padding-top: 5%; */
 }
 
 #banner .section-heading:before {
